@@ -79,6 +79,8 @@ var l_bgImages = [
 	"urpload4.jpg",
 	"urpload5.jpg",
 	"urpload6.jpg",
+	"urpload7.jpg",
+	
 ];
 
 // (Image-background only)
@@ -89,7 +91,7 @@ var l_bgImagesRandom = true;
 // (Image-background only)
 // Delay between background images changes
 // in milliseconds
-var l_bgImageDuration = 5000;
+var l_bgImageDuration = 6000;
 
 // (Image-background only)
 // Image background fade velocity
@@ -102,7 +104,7 @@ var l_bgOverlay = false;
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
-var l_bgDarkening = 25;
+var l_bgDarkening = 15;
 
 // Play music during the loading screen?
 // 'true' or 'false'
@@ -137,7 +139,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Welcome to Universal DarkRP!",
 	"Please allow addons to download as it is well worth the wait! You will be in shortly!",
-	"We are here to assist you; if you have any concerns feel free to ask with the @ sign!",
+	"Upon loading in please be sure to read over rules in motd.",
 ];
 
 // Random message order?
@@ -146,7 +148,7 @@ var l_messagesRandom = true;
 
 // Delay between message changes
 // in milliseconds
-var l_messagesDelay = 5000;
+var l_messagesDelay = 7000;
 
 // Messages fade time
 // in milliseconds
