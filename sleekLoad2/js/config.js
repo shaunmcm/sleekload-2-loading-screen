@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "logo.png";
+var l_serverImage = "";
 
 // Center logo?
 // 'true' or 'false'
@@ -73,8 +73,9 @@ var l_bgImageMapBased = false;
 // (You can also use external URL)
 var l_bgImages = [
 	"urpload.jpg",
-	"touhou02.jpg",
-	"touhou03.jpg"
+	"urpload1.jpg",
+	"urpload2.jpg"
+	"urpload3.jpg"
 ];
 
 // (Image-background only)
@@ -94,7 +95,7 @@ var l_bgImageFadeVelocity = 2000;
 
 // Enable background overlay?
 // 'true' or 'false'
-var l_bgOverlay = true;
+var l_bgOverlay = false;
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
