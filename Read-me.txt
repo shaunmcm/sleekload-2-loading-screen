@@ -1,0 +1,11 @@
+Steps for installing sleekLoad:
+
+1. Open the 'config.js' in the 'sleekLoad2/js' folder with a text editor (e.g. notepad etc)
+2. Edit and save the file to customize your loading screen
+3. After finishing customizing, upload the sleekLoad2 folder to your web host
+    - If you don't have a web host, you can find a free one on google
+4. Set the sv_loadingurl of your server to your sleekLoad web host url
+5. Enjoy!
+
+Thank you for purchasing sleekLoad 2!
+Have fun with your new loading screen!
