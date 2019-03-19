@@ -76,6 +76,9 @@ var l_bgImages = [
 	"urpload1.jpg",
 	"urpload2.jpg",
 	"urpload3.jpg",
+	"urpload4.jpg",
+	"urpload5.jpg",
+	"urpload6.jpg",
 ];
 
 // (Image-background only)
@@ -99,11 +102,11 @@ var l_bgOverlay = false;
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
-var l_bgDarkening = 50;
+var l_bgDarkening = 25;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = true;
+var l_music = false;
 
 // Display current music name?
 // 'true' or 'false'
