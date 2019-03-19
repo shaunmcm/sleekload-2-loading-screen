@@ -74,8 +74,8 @@ var l_bgImageMapBased = false;
 var l_bgImages = [
 	"urpload.jpg",
 	"urpload1.jpg",
-	"urpload2.jpg"
-	"urpload3.jpg"
+	"urpload2.jpg",
+	"urpload3.jpg",
 ];
 
 // (Image-background only)
@@ -107,7 +107,7 @@ var l_music = true;
 
 // Display current music name?
 // 'true' or 'false'
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 // Music playlist
 // Add as many youtube ids/urls or ogg files you want
@@ -120,11 +120,11 @@ var l_musicPlaylist = [
 
 // Random music order?
 // 'true' or 'false'
-var l_musicRandom = true;
+var l_musicRandom = false;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 14;
+var l_musicVolume = 0;
 
 // Enable custom messages?
 // 'true' or 'false'
