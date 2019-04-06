@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Universal DarkRP";
+var l_serverName = "Universal Heroes Role Play";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -76,10 +76,6 @@ var l_bgImages = [
 	"urpload1.jpg",
 	"urpload2.jpg",
 	"urpload3.jpg",
-	"urpload4.jpg",
-	"urpload5.jpg",
-	"urpload6.jpg",
-	"urpload7.jpg",
 	
 ];
 
@@ -100,7 +96,7 @@ var l_bgImageFadeVelocity = 2000;
 
 // Enable background overlay?
 // 'true' or 'false'
-var l_bgOverlay = false;
+var l_bgOverlay = true;
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
@@ -108,19 +104,19 @@ var l_bgDarkening = 15;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = false;
+var l_music = true;
 
 // Display current music name?
 // 'true' or 'false'
-var l_musicDisplay = false;
+var l_musicDisplay = true;
 
 // Music playlist
 // Add as many youtube ids/urls or ogg files you want
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://www.youtube.com/watch?v=27ixLv3Lw1M", name: "MK Ultra - Muse"},
-	{youtube: "https://www.youtube.com/watch?v=oi3QmAmrG6M", name: "Knights Of Cydonia"},
+    {ogg: "muse.ogg", name: "Pressure"},
+	{ogg: "newborn.ogg", name: "New Born"},
 ];
 
 // Random music order?
@@ -129,7 +125,7 @@ var l_musicRandom = false;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 0;
+var l_musicVolume = 25;
 
 // Enable custom messages?
 // 'true' or 'false'
@@ -137,7 +133,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Welcome to Universal DarkRP!",
+	"Welcome to Universal Heroes RP",
 	"Please allow addons to download as it is well worth the wait! You will be in shortly!",
 	"Upon loading in please be sure to read over rules in motd.",
 ];
