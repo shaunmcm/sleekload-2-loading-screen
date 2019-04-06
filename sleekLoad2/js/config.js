@@ -140,7 +140,7 @@ var l_messages = [
 	"Welcome to Universal Heroes RP",
 	"Please allow addons to download as it is well worth the wait! You will be in shortly!",
 	"Upon loading in please be sure to read over rules in motd.",
-];
+]
 
 // Random message order?
 // 'true' or 'false'
