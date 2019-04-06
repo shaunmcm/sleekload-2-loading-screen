@@ -75,7 +75,6 @@ var l_bgImages = [
 	"urpload.jpg",
 	"urpload1.jpg",
 	"urpload2.jpg",
-	"urpload3.jpg",
 	
 ];
 
@@ -115,8 +114,8 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-    {ogg: "muse.ogg", name: "Pressure"},
-	{ogg: "newborn.ogg", name: "New Born"},
+    {ogg: "muse.ogg", name: "Pressure -Muse"},
+	{ogg: "newborn.ogg", name: "New Born -Muse"},
 ];
 
 // Random music order?
