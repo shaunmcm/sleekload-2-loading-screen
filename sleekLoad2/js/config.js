@@ -72,17 +72,14 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-    "54677",
-	"hero1.jpg",
-	"hero2.jpg",
-	"hero3.jpg",
-	
+    "54677.jpg",
+	"https://www.google.com/search?q=heroes+desktop+background+4k&rlz=1C1CHBF_enUS840US840&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjAgsO_zbrhAhUoFzQIHUTyCzsQ_AUIDigB&biw=1920&bih=937#imgrc=NC462UHz1lWYUM:",
 ];
 
 // (Image-background only)
 // Random background images order?
 // 'true' or 'false'
-var l_bgImagesRandom = true;
+var l_bgImagesRandom = false;
 
 // (Image-background only)
 // Delay between background images changes
