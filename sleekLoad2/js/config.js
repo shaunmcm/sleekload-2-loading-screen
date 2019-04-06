@@ -121,7 +121,7 @@ var l_musicDisplay = false;
 var l_musicPlaylist = [
     {ogg: "Most Epic Music Ever Everything Ends Here.ogg", name: "Everything Ends Here - Blue Lion Music"},
 	{ogg: "villian.ogg", name: "Unknown"},
-];
+]
 
 // Random music order?
 // 'true' or 'false'
