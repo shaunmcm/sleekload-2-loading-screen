@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Universal Heroes Role Play";
+var l_serverName = "Universal HeroesRP";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -77,13 +77,16 @@ var l_bgImages = [
 	"hero2.jpg",
 	"hero3.jpg",
 	"hero4.jpg",
+	"hero5.jpg",
+	"hero6.jpg",
+	"hero7.jpg",
 	
 ]
 
 // (Image-background only)
 // Random background images order?
 // 'true' or 'false'
-var l_bgImagesRandom = false;
+var l_bgImagesRandom = true;
 
 // (Image-background only)
 // Delay between background images changes
@@ -105,7 +108,7 @@ var l_bgDarkening = 15;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = false;
+var l_music = True;
 
 // Display current music name?
 // 'true' or 'false'
@@ -116,8 +119,8 @@ var l_musicDisplay = false;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-    {ogg: "muse.ogg", name: "Pressure -Muse"},
-	{ogg: "newborn.ogg", name: "New Born -Muse"},
+    {ogg: "Most Epic Music Ever Everything Ends Here.ogg", name: "Everything Ends Here - Blue Lion Music"},
+	{ogg: "villian.ogg", name: "Unknown"},
 ];
 
 // Random music order?
