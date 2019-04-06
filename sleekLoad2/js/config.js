@@ -96,7 +96,7 @@ var l_bgImageFadeVelocity = 2000;
 
 // Enable background overlay?
 // 'true' or 'false'
-var l_bgOverlay = true;
+var l_bgOverlay = false;
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
