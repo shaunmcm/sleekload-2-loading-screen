@@ -72,9 +72,12 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-    "54677.jpg",
-	"https://www.google.com/search?q=heroes+desktop+background+4k&rlz=1C1CHBF_enUS840US840&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjAgsO_zbrhAhUoFzQIHUTyCzsQ_AUIDigB&biw=1920&bih=937#imgrc=NC462UHz1lWYUM:",
-];
+    "hero.jpg",
+	"hero1.jpg",
+	"hero2.jpg",
+	"hero3.jpg",
+	
+]
 
 // (Image-background only)
 // Random background images order?
@@ -141,7 +144,7 @@ var l_messagesRandom = true;
 
 // Delay between message changes
 // in milliseconds
-var l_messagesDelay = 5000;
+var l_messagesDelay = 5500;
 
 // Messages fade time
 // in milliseconds
