@@ -76,6 +76,7 @@ var l_bgImages = [
 	"hero1.jpg",
 	"hero2.jpg",
 	"hero3.jpg",
+	"hero4.jpg",
 	
 ]
 
@@ -144,7 +145,7 @@ var l_messagesRandom = true;
 
 // Delay between message changes
 // in milliseconds
-var l_messagesDelay = 5500;
+var l_messagesDelay = 6000;
 
 // Messages fade time
 // in milliseconds
